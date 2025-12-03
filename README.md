@@ -48,28 +48,6 @@ Welcome to my GitHub profile! I'm a **backend developer** who loves building **d
 
 ---
 
-## 📚 Featured Code Snippets
-```go
-// Example: gRPC-based stock fetching
-res, err := client.GetStock(ctx, &pb.GetStockRequest{Id: id})
-if err != nil {
-    t.Fatalf("failed to fetch stock: %v", err)
-}
-```
-
-```python
-# Example: Clean Django validator
-@staticmethod
-def detach_media(contents, instance):
-    ContentAttachment.objects.filter(
-        content__in=contents,
-        content_type=ContentType.objects.get_for_model(instance),
-        object_id=instance.pk,
-    ).delete()
-```
-
----
-
 ## 🌱 What I'm Learning / Improving
 - High-throughput message systems
 - Advanced Kafka patterns
