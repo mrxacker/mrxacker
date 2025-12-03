@@ -1,4 +1,4 @@
-# Hi, I'm Myrat 👋
+# Hi, I'm Oraz 👋
 
 Welcome to my GitHub profile! I'm a **backend developer** who loves building **distributed systems**, **real‑time services**, and **clean, testable backend architectures**. I work extensively with **Go**, **Python/Django**, **Docker**, **Kafka**, and **microservices design**.
 
